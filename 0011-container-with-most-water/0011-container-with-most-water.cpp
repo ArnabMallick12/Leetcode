@@ -9,7 +9,6 @@ public:
             if(ans<temp){
                 ans=temp;
             }
-            cout<<ans<<" ";
             if(height[i]>height[j]){
                 j--;
             }
