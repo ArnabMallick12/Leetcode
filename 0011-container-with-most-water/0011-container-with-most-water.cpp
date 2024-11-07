@@ -4,8 +4,7 @@ public:
         int i=0,j=height.size()-1;
         int ans=0;
         while(j>i){
-            int mh = min(height[i],height[j]);
-            int temp = (j-i)*mh;
+            int temp = (j-i)*min(height[i],height[j]);
             if(ans<temp){
                 ans=temp;
             }
