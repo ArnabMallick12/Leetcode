@@ -74,9 +74,18 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ArnabMallick12/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
