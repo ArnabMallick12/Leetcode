@@ -9,7 +9,7 @@ public:
             mp[nums[i]]++;
         }
         for(auto i :mp){
-            cout<<i.first<<"-"<<i.second<<" ";
+            // cout<<i.first<<"-"<<i.second<<" ";
             if(i.second == 1){
                 return i.first;
             }
