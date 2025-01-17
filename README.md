@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/ArnabMallick12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ArnabMallick12/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -46,6 +47,7 @@
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArnabMallick12/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
