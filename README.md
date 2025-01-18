@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
