@@ -77,6 +77,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ArnabMallick12/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
@@ -147,5 +150,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
