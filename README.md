@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ArnabMallick12/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 ## String Matching
@@ -152,4 +153,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArnabMallick12/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
