@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ArnabMallick12/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ArnabMallick12/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -114,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ArnabMallick12/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
@@ -173,6 +175,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
