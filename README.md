@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/ArnabMallick12/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,10 +167,16 @@
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
