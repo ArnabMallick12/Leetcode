@@ -157,6 +157,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,8 +205,10 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
