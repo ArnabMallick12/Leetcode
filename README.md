@@ -44,6 +44,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ArnabMallick12/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
@@ -158,6 +159,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,17 +192,20 @@
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
