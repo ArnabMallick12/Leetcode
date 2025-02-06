@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/ArnabMallick12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
