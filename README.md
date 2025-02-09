@@ -46,6 +46,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -85,6 +86,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sorting
 |  |
@@ -102,6 +104,7 @@
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
