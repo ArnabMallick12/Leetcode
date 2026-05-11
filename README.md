@@ -41,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/ArnabMallick12/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -148,6 +149,7 @@
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -304,4 +308,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
