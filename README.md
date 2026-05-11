@@ -14,6 +14,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/ArnabMallick12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ArnabMallick12/Leetcode/tree/master/0031-next-permutation) |
@@ -84,6 +85,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
