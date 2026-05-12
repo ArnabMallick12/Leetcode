@@ -4,6 +4,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ArnabMallick12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ArnabMallick12/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ArnabMallick12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ArnabMallick12/Leetcode/tree/master/0031-next-permutation) |
