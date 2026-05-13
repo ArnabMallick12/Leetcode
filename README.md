@@ -216,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Tree
 | Problem Name | Difficulty |
@@ -308,6 +309,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
