@@ -204,6 +204,7 @@
 | [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ArnabMallick12/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -276,6 +277,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ArnabMallick12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -380,4 +382,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
