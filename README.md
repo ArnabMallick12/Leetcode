@@ -38,6 +38,7 @@
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ArnabMallick12/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ArnabMallick12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ArnabMallick12/Leetcode/tree/master/0066-plus-one) |
@@ -407,5 +408,6 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/ArnabMallick12/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
