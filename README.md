@@ -36,6 +36,7 @@
 | [0031-next-permutation](https://github.com/ArnabMallick12/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ArnabMallick12/Leetcode/tree/master/0054-spiral-matrix) |
@@ -405,5 +406,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
