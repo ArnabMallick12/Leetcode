@@ -35,6 +35,7 @@
 | [0027-remove-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ArnabMallick12/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ArnabMallick12/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/ArnabMallick12/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ArnabMallick12/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -306,6 +308,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/ArnabMallick12/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ArnabMallick12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
