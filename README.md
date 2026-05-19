@@ -181,6 +181,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ArnabMallick12/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0504-base-7](https://github.com/ArnabMallick12/Leetcode/tree/main/0504-base-7/) | Easy |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
@@ -212,6 +213,7 @@
 | [0258-add-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0504-base-7](https://github.com/ArnabMallick12/Leetcode/tree/main/0504-base-7/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
