@@ -210,6 +210,7 @@
 | [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ArnabMallick12/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/ArnabMallick12/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -422,4 +423,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/ArnabMallick12/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
