@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/ArnabMallick12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0027-remove-element) |
@@ -199,6 +200,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -230,6 +232,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
