@@ -98,6 +98,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ArnabMallick12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -186,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ArnabMallick12/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ArnabMallick12/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -243,6 +245,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ArnabMallick12/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ArnabMallick12/Leetcode/tree/master/0070-climbing-stairs) |
