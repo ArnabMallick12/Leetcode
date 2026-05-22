@@ -264,6 +264,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/ArnabMallick12/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/ArnabMallick12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -379,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/ArnabMallick12/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -450,4 +452,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/ArnabMallick12/Leetcode/tree/main/0223-rectangle-area/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ArnabMallick12/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
