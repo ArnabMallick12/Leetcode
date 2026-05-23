@@ -48,6 +48,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ArnabMallick12/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ArnabMallick12/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ArnabMallick12/Leetcode/tree/master/0118-pascals-triangle) |
@@ -265,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ArnabMallick12/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/ArnabMallick12/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
@@ -448,6 +450,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ArnabMallick12/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
