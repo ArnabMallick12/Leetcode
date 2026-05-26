@@ -88,6 +88,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2104-sum-of-subarray-ranges](https://github.com/ArnabMallick12/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArnabMallick12/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -287,6 +288,7 @@
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/ArnabMallick12/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +473,7 @@
 | [0503-next-greater-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/ArnabMallick12/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
