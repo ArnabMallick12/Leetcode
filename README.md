@@ -15,6 +15,7 @@
 | [0206-reverse-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -410,6 +412,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/ArnabMallick12/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ArnabMallick12/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/ArnabMallick12/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -499,4 +502,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ArnabMallick12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
