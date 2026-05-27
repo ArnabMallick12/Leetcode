@@ -11,27 +11,15 @@
  */
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
-    vector<int> result;
-    stack<TreeNode*> stk;
-    TreeNode* current = root;
-
-    while (current != NULL || !stk.empty()) {
-        // Reach the leftmost node of the current node
-        while (current != NULL) {
-            stk.push(current);
-            current = current->left;
-        }
-        
-        // Current must be NULL at this point
-        current = stk.top();
-        stk.pop();
-        result.push_back(current->val);
-
-        // Visit the right subtree
-        current = current->right;
+    void fn(TreeNode* node, vector<int>& ans){
+        if(node == nullptr) return;
+        fn(node->left,ans);
+        ans.push_back(node->val);
+        fn(node->right,ans);
     }
-
-    return result;
-}
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        fn(root,ans);
+        return ans;
+    }
 };
