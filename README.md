@@ -142,6 +142,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/ArnabMallick12/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/ArnabMallick12/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/ArnabMallick12/Leetcode/tree/main/0127-word-ladder/) | Hard |
@@ -203,6 +204,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ArnabMallick12/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ArnabMallick12/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ArnabMallick12/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ArnabMallick12/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -236,6 +238,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ArnabMallick12/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ArnabMallick12/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/ArnabMallick12/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/ArnabMallick12/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ArnabMallick12/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
