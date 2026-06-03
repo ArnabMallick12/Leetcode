@@ -40,6 +40,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ArnabMallick12/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ArnabMallick12/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ArnabMallick12/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
@@ -495,6 +496,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/ArnabMallick12/Leetcode/tree/main/0051-n-queens/) | Hard |
