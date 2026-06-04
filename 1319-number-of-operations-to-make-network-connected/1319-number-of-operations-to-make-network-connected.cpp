@@ -1,29 +1,28 @@
 class Solution {
 public:
-    void dfs(int node,  vector<vector<int>>& adj, vector<int>& vis){
+    void dfs(int node, vector<int>& vis,vector<vector<int>>& adj ){
         vis[node] = 1;
-        for(int i : adj[node]){
-            if(!vis[i]){
-                dfs(i,adj,vis);
+        for(auto u : adj[node]){
+            if(vis[u]==-1){
+                dfs(u,vis,adj);
             }
         }
     }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size()<n-1) return -1;
-
-        vector<int> vis(n,0);
+        if(n-1>connections.size()) return -1;
         vector<vector<int>> adj(n);
-        for(auto i :connections){
+        for(auto i : connections){
             adj[i[0]].push_back(i[1]);
             adj[i[1]].push_back(i[0]);
         }
-        int ans=0;
+        int cnt =0;
+        vector<int> vis(n,-1);
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,adj,vis);
-                ans++;
+            if(vis[i]==-1){
+                dfs(i,vis,adj);
+                cnt++;
             }
         }
-        return ans-1;
+        return cnt-1;
     }
 };
