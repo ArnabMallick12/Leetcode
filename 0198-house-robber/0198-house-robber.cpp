@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int fn(int idx, vector<int>& nums,vector<int>& dp){
-        if(idx >= nums.size()) return 0;
-        if(dp[idx]!=-1) return dp[idx];
-        int take = fn(idx+2,nums,dp) + nums[idx];
-        int ntake = fn(idx+1,nums,dp);
-        return dp[idx] = max(take,ntake);
-    }
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(),-1);
-        fn(0,nums,dp);
-        return dp[0];
+        int n = nums.size();
+        int dp[n];
+        dp[0] = nums[0];
+
+        for(int i=1;i<n;i++){
+            if(i<2){
+                dp[i] = max(dp[i-1],nums[i]);
+            }
+            else{
+                dp[i]= max(dp[i-2] + nums[i],dp[i-1]);
+            }
+        }
+        return dp[n-1];
     }
 };
