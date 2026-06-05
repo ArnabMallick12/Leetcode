@@ -1,16 +1,15 @@
 class Solution {
 public:
-    int fn(int i, vector<int> &nums, vector<int> &dp){
-        if(i>=nums.size()) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int ch1 = nums[i]+fn(i+2,nums,dp);
-        int ch2 = fn(i+1,nums,dp);
-        return dp[i] = max(ch1,ch2);
+    int fn(int idx, vector<int>& nums,vector<int>& dp){
+        if(idx >= nums.size()) return 0;
+        if(dp[idx]!=-1) return dp[idx];
+        int take = fn(idx+2,nums,dp) + nums[idx];
+        int ntake = fn(idx+1,nums,dp);
+        return dp[idx] = max(take,ntake);
     }
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n,-1);
-        return fn(0,nums,dp);
-
+        vector<int> dp(nums.size(),-1);
+        fn(0,nums,dp);
+        return dp[0];
     }
 };
