@@ -101,6 +101,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2540-minimum-common-value](https://github.com/ArnabMallick12/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ArnabMallick12/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/ArnabMallick12/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -375,6 +376,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArnabMallick12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/ArnabMallick12/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
