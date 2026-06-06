@@ -86,6 +86,7 @@
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ArnabMallick12/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [1861-rotating-the-box](https://github.com/ArnabMallick12/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
