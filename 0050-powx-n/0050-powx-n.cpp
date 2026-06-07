@@ -7,8 +7,6 @@ public:
             N=-1LL*N;
         }
         if(N==0) return 1;
-
-
         double ans=1;
         long long msb=log2(N);
 
