@@ -117,6 +117,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ArnabMallick12/Leetcode/tree/master/3429-special-array-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -230,6 +231,7 @@
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Divide and Conquer
@@ -321,6 +324,7 @@
 | [0213-house-robber-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Memoization
@@ -360,6 +364,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +384,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
