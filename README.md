@@ -89,6 +89,7 @@
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ArnabMallick12/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -323,6 +324,7 @@
 | [0198-house-robber](https://github.com/ArnabMallick12/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -438,6 +440,7 @@
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1861-rotating-the-box](https://github.com/ArnabMallick12/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
