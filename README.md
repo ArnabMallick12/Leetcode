@@ -80,6 +80,7 @@
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ArnabMallick12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -331,6 +332,7 @@
 | [0198-house-robber](https://github.com/ArnabMallick12/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -573,6 +575,7 @@
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/ArnabMallick12/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
