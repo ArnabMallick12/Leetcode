@@ -18,6 +18,7 @@
 | [0328-odd-even-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/ArnabMallick12/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ArnabMallick12/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArnabMallick12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
