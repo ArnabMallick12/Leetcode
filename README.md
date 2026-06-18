@@ -315,6 +315,7 @@
 | [0504-base-7](https://github.com/ArnabMallick12/Leetcode/tree/main/0504-base-7/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ArnabMallick12/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
