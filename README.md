@@ -26,6 +26,7 @@
 | [0002-add-two-numbers](https://github.com/ArnabMallick12/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ArnabMallick12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArnabMallick12/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/ArnabMallick12/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/ArnabMallick12/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -170,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ArnabMallick12/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ArnabMallick12/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0134-gas-station](https://github.com/ArnabMallick12/Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -262,6 +264,7 @@
 | [0020-valid-parentheses](https://github.com/ArnabMallick12/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ArnabMallick12/Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0044-wildcard-matching](https://github.com/ArnabMallick12/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ArnabMallick12/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ArnabMallick12/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -340,6 +343,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ArnabMallick12/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/ArnabMallick12/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ArnabMallick12/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
