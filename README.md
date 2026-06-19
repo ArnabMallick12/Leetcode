@@ -270,6 +270,7 @@
 | [0504-base-7](https://github.com/ArnabMallick12/Leetcode/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -352,6 +353,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
