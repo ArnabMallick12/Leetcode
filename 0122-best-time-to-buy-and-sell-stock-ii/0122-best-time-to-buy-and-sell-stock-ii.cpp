@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int fn(int i,vector<int>& prices, vector<int>& dp){
-        if(i==prices.size()-1) return 0;
-        if(dp[i] !=-1) return dp[i];
-        int notbuy = fn(i+1,prices,dp);
-        int buy = 0;
-        for(int j = i+1;j<prices.size();j++){
-            buy = max((prices[j]-prices[i]) + fn(j,prices,dp),buy);
+    int fn(int i, int buy, vector<int>& prices,vector<vector<int>>& dp){
+        if(i==prices.size()) return 0;
+        if(dp[i][buy] != -1) return dp[i][buy];
+        int profit  =0;
+        if(buy){
+            profit = max(
+                -prices[i] + fn(i+1,0,prices,dp),
+                fn(i+1,1,prices,dp)
+            );
         }
-        return dp[i]=max(notbuy,buy);
+        else{
+            profit = max(
+                +prices[i] + fn(i,1,prices,dp),
+                fn(i+1,0,prices,dp)
+            );
+        }
+        return dp[i][buy] =  profit;
     }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<int> dp(n,0);
-        dp[n-1]  =0;
-        for(int i = n-2;i>=0;i--){
-            int notbuy = dp[i+1];
-            int buy = 0;
-            for(int j=i+1;j<n;j++){
-                buy = max((prices[j]-prices[i] + dp[j]),buy);
-            }
-            dp[i] = max(notbuy,buy);
-        }
-        return dp[0];
+        vector<vector<int>> dp(n,vector<int>(2,-1));
+        return fn(0,1,prices,dp);
     }
 };
