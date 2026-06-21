@@ -107,6 +107,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ArnabMallick12/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ArnabMallick12/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [1861-rotating-the-box](https://github.com/ArnabMallick12/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -184,6 +185,7 @@
 | [0402-remove-k-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ArnabMallick12/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -232,6 +234,7 @@
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ArnabMallick12/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ArnabMallick12/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -666,4 +669,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
