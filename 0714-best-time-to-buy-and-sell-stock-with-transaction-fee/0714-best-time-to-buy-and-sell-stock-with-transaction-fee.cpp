@@ -2,33 +2,25 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices, int fee) {
         int n = prices.size();
-        // vector<vector<int>> dp(n+1,vector<int>(2,0));
-        // dp[n][1]=dp[n][0] =0;
-        int notbuy =0 , buy = 0;
-        for(int i = n-1;i>=0;i--){
-            for(int j=0;j<2;j++){
-                int profit = 0;
-                if(j){
+        vector<vector<int>> dp(n+1,vector<int>(2,0));
+        for(int i=n-1;i>=0;i--){
+            for(int buy =0;buy<=1;buy++){
+                long long profit=0;
+                if(buy){
                     profit = max(
-                        -prices[i] + notbuy,
-                        buy
+                        -prices[i] + dp[i+1][0],
+                        dp[i+1][1]
                     );
-                    buy = profit;
                 }
                 else{
                     profit = max(
-                        +prices[i] + buy - fee,
-                        notbuy
+                        +prices[i] + dp[i+1][1] - fee,
+                        dp[i+1][0]
                     );
-                    notbuy = profit;
                 }
-                // dp[i][j] = profit;
+                dp[i][buy] = profit;
             }
         }
-        // for(int i = 0;i<=n;i++){
-        //     cout<<dp[i][0]<<" "<<dp[i][1]<<endl;
-        // }
-
-        return buy;
+        return dp[0][1];
     }
 };
