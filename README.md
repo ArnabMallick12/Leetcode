@@ -211,6 +211,7 @@
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArnabMallick12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/ArnabMallick12/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -289,6 +290,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/ArnabMallick12/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0402-remove-k-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ArnabMallick12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/ArnabMallick12/Leetcode/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/ArnabMallick12/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -597,6 +599,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ArnabMallick12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/ArnabMallick12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Combinatorics
