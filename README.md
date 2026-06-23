@@ -60,6 +60,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ArnabMallick12/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ArnabMallick12/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/ArnabMallick12/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -288,6 +289,7 @@
 | [0044-wildcard-matching](https://github.com/ArnabMallick12/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/ArnabMallick12/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ArnabMallick12/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ArnabMallick12/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/ArnabMallick12/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/ArnabMallick12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -445,6 +447,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -522,6 +525,7 @@
 | [0064-minimum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ArnabMallick12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/ArnabMallick12/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
@@ -657,6 +661,7 @@
 | [0040-combination-sum-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ArnabMallick12/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/ArnabMallick12/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Monotonic Stack
