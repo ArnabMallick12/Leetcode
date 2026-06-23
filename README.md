@@ -102,6 +102,7 @@
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -315,6 +316,7 @@
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [2540-minimum-common-value](https://github.com/ArnabMallick12/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -480,6 +482,7 @@
 | [0238-product-of-array-except-self](https://github.com/ArnabMallick12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ArnabMallick12/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Simulation
@@ -594,6 +597,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ArnabMallick12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
