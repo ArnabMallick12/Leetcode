@@ -102,6 +102,7 @@
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/ArnabMallick12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -195,6 +196,7 @@
 | [0402-remove-k-digits](https://github.com/ArnabMallick12/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ArnabMallick12/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
