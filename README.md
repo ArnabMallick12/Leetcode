@@ -101,6 +101,7 @@
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/ArnabMallick12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
+| [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -219,6 +220,7 @@
 | [0496-next-greater-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ArnabMallick12/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -609,6 +611,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ArnabMallick12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ArnabMallick12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArnabMallick12/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
