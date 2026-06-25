@@ -699,6 +699,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/ArnabMallick12/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/ArnabMallick12/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArnabMallick12/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/ArnabMallick12/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
