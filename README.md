@@ -336,6 +336,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ArnabMallick12/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/ArnabMallick12/Leetcode/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
