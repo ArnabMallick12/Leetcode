@@ -11,7 +11,16 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
-        return fn(0,0,nums,dp);
+        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        for(int i=n-1;i>=0;i--){
+            for(int prev = i;prev>=0;prev--){
+                int len = dp[i+1][prev];
+                if(prev == 0 || nums[i]>nums[prev-1]){
+                    len = max(len,1+dp[i+1][i+1]);
+                }
+                dp[i][prev] = len;
+            }
+        }
+        return dp[0][0];
     }
 };
