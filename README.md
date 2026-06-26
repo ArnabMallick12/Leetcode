@@ -99,6 +99,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/ArnabMallick12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -426,6 +427,7 @@
 | [0368-largest-divisible-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ArnabMallick12/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArnabMallick12/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -677,10 +679,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
