@@ -1,25 +1,17 @@
 class Solution {
 public:
-    int fn(int i,int prev,vector<int>& nums,vector<vector<int>>& dp){
-        if(i==nums.size()) return 0;
-        if(dp[i][prev] !=-1) return dp[i][prev];
-        int len = fn(i+1,prev,nums,dp);
-        if(prev == 0 || nums[i]>nums[prev-1]){
-            len = max(len, 1+ fn(i+1,i+1,nums,dp));
+    int fn(int ind , int prev , vector<int>& nums,vector<vector<int>>& dp){
+        if(ind == nums.size()) return 0;
+        if(dp[ind][prev]!=-1) return dp[ind][prev];
+        int len = fn(ind+1,prev,nums,dp); // not pick
+        if(prev == 0 || nums[ind]>nums[prev-1]){ //condition if can pick indth element
+            len = max(len,fn(ind+1,ind+1,nums,dp)+1); //pick
         }
-        return dp[i][prev] = len;
+        return dp[ind][prev] =  len;
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        // vector<vector<int>> dp(n+1,vector<int>(n+1,0));
-        vector<int> dp(n,1);
-        for(int i=0;i<n;i++){
-            for(int j=i-1;j>=0;j--){
-                if(nums[i]>nums[j]){
-                    dp[i]  = max(dp[i],1+dp[j]);
-                }
-            }
-        }
-        return *max_element(dp.begin(),dp.end());
+        vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        return fn(0,0,nums,dp);
     }
 };
