@@ -146,6 +146,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ArnabMallick12/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ArnabMallick12/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -254,6 +255,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArnabMallick12/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/ArnabMallick12/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -782,6 +784,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
