@@ -123,6 +123,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ArnabMallick12/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ArnabMallick12/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ArnabMallick12/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [1861-rotating-the-box](https://github.com/ArnabMallick12/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -209,6 +210,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ArnabMallick12/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ArnabMallick12/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ArnabMallick12/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ArnabMallick12/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
@@ -275,6 +277,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ArnabMallick12/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ArnabMallick12/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1847-closest-room](https://github.com/ArnabMallick12/Leetcode/tree/main/1847-closest-room/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ArnabMallick12/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArnabMallick12/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
