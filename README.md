@@ -148,6 +148,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ArnabMallick12/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ArnabMallick12/Leetcode/tree/main/2857-count-pairs-of-points-with-distance-k/) | Medium |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ArnabMallick12/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -261,6 +262,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArnabMallick12/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/ArnabMallick12/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ArnabMallick12/Leetcode/tree/main/2857-count-pairs-of-points-with-distance-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -314,6 +316,7 @@
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ArnabMallick12/Leetcode/tree/main/2857-count-pairs-of-points-with-distance-k/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
