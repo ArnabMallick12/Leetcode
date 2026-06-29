@@ -166,6 +166,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ArnabMallick12/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/ArnabMallick12/Leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
