@@ -147,6 +147,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ArnabMallick12/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2848-points-that-intersect-with-cars](https://github.com/ArnabMallick12/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -472,6 +473,7 @@
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
