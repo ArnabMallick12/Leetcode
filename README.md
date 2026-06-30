@@ -262,6 +262,7 @@
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1399-count-largest-group](https://github.com/ArnabMallick12/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -323,6 +324,7 @@
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ArnabMallick12/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArnabMallick12/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ArnabMallick12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/ArnabMallick12/Leetcode/tree/main/2857-count-pairs-of-points-with-distance-k/) | Medium |
@@ -362,6 +364,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArnabMallick12/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -435,6 +438,7 @@
 | [0191-number-of-1-bits](https://github.com/ArnabMallick12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0493-reverse-pairs](https://github.com/ArnabMallick12/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [1763-longest-nice-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
@@ -715,6 +719,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArnabMallick12/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ArnabMallick12/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
