@@ -256,6 +256,7 @@
 | [1048-longest-string-chain](https://github.com/ArnabMallick12/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ArnabMallick12/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -356,6 +357,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/ArnabMallick12/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArnabMallick12/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArnabMallick12/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -702,6 +704,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArnabMallick12/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Combinatorics
