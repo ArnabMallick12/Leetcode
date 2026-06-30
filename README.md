@@ -260,6 +260,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArnabMallick12/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1399-count-largest-group](https://github.com/ArnabMallick12/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -307,6 +308,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/ArnabMallick12/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1399-count-largest-group](https://github.com/ArnabMallick12/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ArnabMallick12/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -415,6 +417,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ArnabMallick12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ArnabMallick12/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1399-count-largest-group](https://github.com/ArnabMallick12/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1840-maximum-building-height](https://github.com/ArnabMallick12/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2448-count-number-of-bad-pairs](https://github.com/ArnabMallick12/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
