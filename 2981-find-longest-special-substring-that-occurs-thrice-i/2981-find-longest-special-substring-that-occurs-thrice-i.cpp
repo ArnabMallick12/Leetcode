@@ -1,24 +1,31 @@
 class Solution {
 public:
     int maximumLength(string s) {
-        unordered_map<string, int> mp;
-        int ans = -1;
-        for (int i = 0; i < s.size(); i++) {
-            for (int j = i; j < s.size(); j++) {
-                bool special = true;
-                for (int k = i + 1; k <= j; k++) {
-                    if (s[k] != s[i]) {
-                        special = false;
-                        break;
-                    }
-                }
-                if (special)
-                    mp[s.substr(i, j - i + 1)]++;
-                if (mp[s.substr(i, j - i + 1)] >= 3) {
-                    ans = max(ans, j - i + 1);
+        int n = s.size();
+
+        vector<vector<int>> freq(26, vector<int>(n + 1, 0));
+
+        for (int i = 0; i < n; i++) {
+            int len = 1;
+            freq[s[i] - 'a'][1]++;
+
+            for (int j = i; j + 1 < n; j++) {
+                if (s[j] == s[j + 1]) {
+                    len++;
+                    freq[s[i] - 'a'][len]++;
+                } else {
+                    break;
                 }
             }
         }
-        return ans;
+
+        for (int len = n; len >= 1; len--) {
+            for (int c = 0; c < 26; c++) {
+                if (freq[c][len] >= 3)
+                    return len;
+            }
+        }
+
+        return -1;
     }
 };
