@@ -160,6 +160,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ArnabMallick12/Leetcode/tree/master/3429-special-array-i) |
@@ -652,6 +653,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -676,6 +678,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ArnabMallick12/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -712,6 +715,7 @@
 | [2434-design-a-number-container-system](https://github.com/ArnabMallick12/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArnabMallick12/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Ordered Set
@@ -754,6 +758,7 @@
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -855,4 +860,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
