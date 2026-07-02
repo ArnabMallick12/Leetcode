@@ -1,14 +1,15 @@
 class Solution {
 public:
-    bool isPalindrome(int i,int j ,string &s, vector<vector<int>> &pal){
+    bool isPalindrome(int l,int r ,string &s, vector<vector<int>> &pal){
         // int i=0, j =s.size()-1;
-        if(pal[i][j]!=-1) return pal[i][j];
+        int i =l, j = r;
+        if(pal[l][r]!=-1) return pal[i][j];
         while(i<j){
-            if(s[i]!=s[j]) return false;
+            if(s[i]!=s[j]) return pal[l][r] =  false;
             i++;
             j--;
         }
-        return pal[i][j] = true;
+        return pal[l][r] = true;
     }
     // int fn(int i ,string s ,vector<int> &dp){
     //     if(i==s.size()) return 0;
