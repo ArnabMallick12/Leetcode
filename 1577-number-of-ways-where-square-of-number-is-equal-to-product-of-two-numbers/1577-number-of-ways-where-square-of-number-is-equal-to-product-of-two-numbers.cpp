@@ -3,8 +3,7 @@ public:
     int fn(vector<int>& nums1, vector<int>& nums2){
         int ans =0 ;
         for(int i=0;i<nums1.size();i++){
-            long long x = nums1[i];
-            long long target = x*x;
+            long long target = (nums1[i]*1LL)*(nums1[i]*1LL);
             unordered_map<long long,int> freq;
             for(int j=0;j<nums2.size();j++){
                 if(target%nums2[j]==0){
