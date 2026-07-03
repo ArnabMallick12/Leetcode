@@ -168,6 +168,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArnabMallick12/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ArnabMallick12/Leetcode/tree/master/3429-special-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -410,6 +411,7 @@
 | [2540-minimum-common-value](https://github.com/ArnabMallick12/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArnabMallick12/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -508,6 +510,7 @@
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -711,6 +714,7 @@
 | ------- | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -728,6 +732,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -770,6 +775,7 @@
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -875,4 +881,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
