@@ -557,6 +557,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -573,6 +574,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -597,6 +599,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Brainteaser
@@ -678,6 +681,7 @@
 | [0127-word-ladder](https://github.com/ArnabMallick12/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
