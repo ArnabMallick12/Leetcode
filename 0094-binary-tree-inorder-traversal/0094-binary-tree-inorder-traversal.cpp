@@ -11,29 +11,15 @@
  */
 class Solution {
 public:
+    void fn(TreeNode* node, vector<int>& ans){
+        if(node == nullptr) return;
+        fn(node->left,ans);
+        ans.push_back(node->val);
+        fn(node->right,ans);
+    }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        while(root!=nullptr){
-            if(root->left== nullptr){
-                ans.push_back(root->val);
-                root = root->right;
-            }
-            else{
-                TreeNode *ip = root->left;
-                while(ip->right!=nullptr && ip->right != root){
-                    ip = ip->right;
-                }
-                if(ip->right == nullptr){
-                    ip->right = root;
-                    root = root->left;
-                }
-                else{
-                    ip->right = nullptr;
-                    ans.push_back(root->val);
-                    root = root->right;
-                }
-            }
-        }
+        fn(root,ans);
         return ans;
     }
 };
