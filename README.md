@@ -558,6 +558,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -577,6 +578,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
@@ -605,6 +607,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
