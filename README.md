@@ -482,6 +482,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArnabMallick12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ArnabMallick12/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/ArnabMallick12/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -557,6 +558,7 @@
 | [0110-balanced-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -578,6 +580,7 @@
 | [0110-balanced-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -609,6 +612,7 @@
 | [0110-balanced-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
