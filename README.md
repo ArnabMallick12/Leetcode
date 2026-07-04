@@ -584,6 +584,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -693,6 +694,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ArnabMallick12/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ArnabMallick12/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -772,12 +774,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Indexed Tree
