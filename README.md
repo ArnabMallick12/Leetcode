@@ -273,6 +273,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/ArnabMallick12/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ArnabMallick12/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -309,6 +310,7 @@
 | [0268-missing-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/ArnabMallick12/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ArnabMallick12/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -590,6 +592,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -623,6 +626,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -659,6 +663,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Brainteaser
@@ -752,6 +757,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
