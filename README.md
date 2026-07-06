@@ -125,6 +125,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArnabMallick12/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/ArnabMallick12/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ArnabMallick12/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1364-tuple-with-same-product](https://github.com/ArnabMallick12/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -314,6 +315,7 @@
 | [0455-assign-cookies](https://github.com/ArnabMallick12/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/ArnabMallick12/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/ArnabMallick12/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArnabMallick12/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ArnabMallick12/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ArnabMallick12/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
