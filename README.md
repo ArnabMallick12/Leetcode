@@ -521,6 +521,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArnabMallick12/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ArnabMallick12/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ArnabMallick12/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -599,6 +600,7 @@
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -634,6 +636,7 @@
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1396-count-servers-that-communicate](https://github.com/ArnabMallick12/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -673,6 +676,7 @@
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ArnabMallick12/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -981,6 +985,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
