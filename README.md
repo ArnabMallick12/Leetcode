@@ -78,6 +78,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ArnabMallick12/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/ArnabMallick12/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ArnabMallick12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ArnabMallick12/Leetcode/tree/master/0169-majority-element) |
@@ -628,6 +629,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnabMallick12/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ArnabMallick12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/ArnabMallick12/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -747,6 +749,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/ArnabMallick12/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -777,6 +780,7 @@
 | [0112-path-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ArnabMallick12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0127-word-ladder](https://github.com/ArnabMallick12/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/ArnabMallick12/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -879,6 +883,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
