@@ -106,6 +106,7 @@
 | [0503-next-greater-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabMallick12/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -516,6 +517,7 @@
 | [0368-largest-divisible-subset](https://github.com/ArnabMallick12/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0494-target-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ArnabMallick12/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -746,6 +748,7 @@
 | [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/ArnabMallick12/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -779,6 +782,7 @@
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
