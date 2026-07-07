@@ -84,6 +84,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ArnabMallick12/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/ArnabMallick12/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ArnabMallick12/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ArnabMallick12/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -629,6 +630,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabMallick12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -742,6 +744,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ArnabMallick12/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/ArnabMallick12/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ArnabMallick12/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -772,6 +775,7 @@
 | [0127-word-ladder](https://github.com/ArnabMallick12/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/ArnabMallick12/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ArnabMallick12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/ArnabMallick12/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -869,6 +873,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
