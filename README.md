@@ -648,6 +648,7 @@
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -798,6 +799,7 @@
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -834,6 +836,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArnabMallick12/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -906,6 +909,7 @@
 | [0207-course-schedule](https://github.com/ArnabMallick12/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ArnabMallick12/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
