@@ -542,6 +542,7 @@
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ArnabMallick12/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ArnabMallick12/Leetcode/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArnabMallick12/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -851,6 +852,7 @@
 | [0207-course-schedule](https://github.com/ArnabMallick12/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArnabMallick12/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Design
@@ -929,6 +931,7 @@
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ArnabMallick12/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1040,6 +1043,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ArnabMallick12/Leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Search Tree
