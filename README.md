@@ -286,6 +286,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ArnabMallick12/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnabMallick12/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/ArnabMallick12/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/ArnabMallick12/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -669,6 +670,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/master/0854-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/ArnabMallick12/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -925,6 +927,7 @@
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ArnabMallick12/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ArnabMallick12/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -942,6 +945,7 @@
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ArnabMallick12/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
