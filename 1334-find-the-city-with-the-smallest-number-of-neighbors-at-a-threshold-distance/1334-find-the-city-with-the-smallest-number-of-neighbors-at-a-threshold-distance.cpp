@@ -2,50 +2,63 @@ class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
 
-        const int INF = 1e9;
-        vector<vector<int>> dist(n, vector<int>(n, INF));
+        vector<vector<pair<int,int>>> adj(n);
 
-        for (int i = 0; i < n; i++)
-            dist[i][i] = 0;
+        for (auto &it : edges) {
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
 
-        for (auto &e : edges) {
-            int u = e[0];
-            int v = e[1];
-            int wt = e[2];
-
-            dist[u][v] = wt;
-            dist[v][u] = wt;
-        }
-
-        // Floyd-Warshall
-        for (int via = 0; via < n; via++) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (dist[i][via] == INF || dist[via][j] == INF)
-                        continue;
-
-                    dist[i][j] = min(dist[i][j],
-                                     dist[i][via] + dist[via][j]);
-                }
-            }
+            adj[u].push_back({v, wt});
+            adj[v].push_back({u, wt});
         }
 
         int city = -1;
-        int cntCity = INT_MAX;
+        int minCnt = INT_MAX;
 
-        for (int i = 0; i < n; i++) {
+        for (int src = 0; src < n; src++) {
+
+            vector<int> dist(n, INT_MAX);
+
+            priority_queue<
+                pair<int,int>,
+                vector<pair<int,int>>,
+                greater<pair<int,int>>
+            > pq;
+
+            dist[src] = 0;
+            pq.push({0, src});
+
+            while (!pq.empty()) {
+
+                auto [dis, node] = pq.top();
+                pq.pop();
+
+                if (dis > dist[node]) continue;
+
+                for (auto &it : adj[node]) {
+
+                    int adjNode = it.first;
+                    int wt = it.second;
+
+                    if (dis + wt < dist[adjNode]) {
+                        dist[adjNode] = dis + wt;
+                        pq.push({dist[adjNode], adjNode});
+                    }
+                }
+            }
 
             int cnt = 0;
 
-            for (int j = 0; j < n; j++) {
-                if (dist[i][j] <= distanceThreshold)
+            for (int i = 0; i < n; i++) {
+                if (dist[i] <= distanceThreshold)
                     cnt++;
             }
 
-            // In case of tie, choose larger city index
-            if (cnt <= cntCity) {
-                cntCity = cnt;
-                city = i;
+            // Choose larger index in case of tie
+            if (cnt <= minCnt) {
+                minCnt = cnt;
+                city = src;
             }
         }
 
