@@ -553,6 +553,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArnabMallick12/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ArnabMallick12/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ArnabMallick12/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ArnabMallick12/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ArnabMallick12/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArnabMallick12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -966,6 +967,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ArnabMallick12/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ArnabMallick12/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ArnabMallick12/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ArnabMallick12/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArnabMallick12/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ArnabMallick12/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -1080,6 +1082,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ArnabMallick12/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ArnabMallick12/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ArnabMallick12/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ArnabMallick12/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArnabMallick12/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ArnabMallick12/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
