@@ -110,6 +110,7 @@
 | [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArnabMallick12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArnabMallick12/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0695-max-area-of-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnabMallick12/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/ArnabMallick12/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -675,6 +676,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/ArnabMallick12/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ArnabMallick12/Leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -793,6 +795,7 @@
 | [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/ArnabMallick12/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/ArnabMallick12/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
@@ -838,6 +841,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArnabMallick12/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ArnabMallick12/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/ArnabMallick12/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/ArnabMallick12/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/ArnabMallick12/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ArnabMallick12/Leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -949,6 +953,7 @@
 | [0130-surrounded-regions](https://github.com/ArnabMallick12/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ArnabMallick12/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ArnabMallick12/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/ArnabMallick12/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/ArnabMallick12/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/ArnabMallick12/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/ArnabMallick12/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
